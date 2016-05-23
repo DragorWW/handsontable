@@ -12,6 +12,9 @@ Check out the demos at http://handsontable.com/examples.html or fork the example
 1. A recommended way to install Handsontable is through [Bower](http://bower.io/search/?q=handsontable) package manager using the following command:
 
   `bower install handsontable --save`
+  
+  or you can install by [npm](https://www.npmjs.com/package/handsontable)
+  `npm install handsontable --save`
 
   Alternatively, you can [download it in a ZIP file](https://github.com/handsontable/handsontable/archive/master.zip).
 
